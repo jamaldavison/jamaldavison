@@ -1,0 +1,6 @@
+AssetID,Location,CurrentOS,MemoryGB,TPM,CPUReview,ApplicationReview,InstrumentDependency,Disposition
+WS-001,Office,Windows 10,16,2.0,Supported,Approved,None,Upgrade candidate
+WS-002,Office,Windows 10,8,2.0,Unsupported,Approved,None,Replacement candidate
+LAB-003,Laboratory,Windows 10,16,2.0,Supported,Pending vendor,USB serial controller,Blocked
+LAB-004,Laboratory,Windows 10,32,2.0,Supported,Legacy driver unknown,Instrument control,Blocked
+WS-005,Shared,Windows 10,8,Missing,Supported,Approved,None,Remediation review
