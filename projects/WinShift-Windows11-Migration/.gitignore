@@ -1,0 +1,13 @@
+# Do not commit real workstation inventory or test results
+inventory.json
+readiness.json
+validation.json
+*.log
+*.bak
+*.pfx
+*.p12
+*.key
+*.pem
+*.kdbx
+.env
+.DS_Store
